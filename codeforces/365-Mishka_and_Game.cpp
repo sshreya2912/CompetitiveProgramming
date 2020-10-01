@@ -20,11 +20,11 @@ int main()
 
 	}
 	if(mishka > chris)
-		cout << "Mishka" << endl;
+		cout << "Mishka" << "\n";
 	else if(chris > mishka)
-		cout << "Chris" << endl;
+		cout << "Chris" << "\n";
 	else
-		cout << "Friendship is magic!^^" << endl;
+		cout << "Friendship is magic!^^" << "\n";
 
 	return 0;
 }
